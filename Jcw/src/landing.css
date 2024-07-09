@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+    min-height: 100%;
+  font-family: 'Poppins', sans-serif !important;
+  background-image: url("https://media.istockphoto.com/id/2096480418/photo/group-of-multi-cultural-children-friends-linking-arms-looking-down-into-camera.jpg?s=612x612&w=0&k=20&c=H0-_W5BfzoBd8VqKwsj353-25GCwsF5XRHVzitJ4ffQ=");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size:cover;
+}
